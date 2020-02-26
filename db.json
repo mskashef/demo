@@ -1,14 +1,78 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  "chats": [
+        {
+            "chatId": "1",
+            "badge": 5,
+            "isMuted": false,
+            "name": "John Smith",
+            "bio": "",
+            "profilePicture": "https://cdn-ep19.pressidium.com/wp-content/uploads/2018/10/cool-profile-pictures-fake-smile.jpg"
+        },
+        {
+            "chatId": "2",
+            "name": "Kate",
+            "bio": "UNSTOPPABLE",
+            "profilePicture": "https://images.unsplash.com/photo-1558898479-33c0057a5d12?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&w=1000&q=80"
+        },
+        {
+            "chatId": "3",
+            "name": "MSK.CODES",
+            "bio": "Hey there! I'm using Telegram",
+            "profilePicture": "https://lh3.googleusercontent.com/proxy/8soPJs-UVypM-9DeZ629DxdI5F_F0UC24D4BQFyJlvZ2-rATB0M7AenrNRPua6ekmN1TkkaidNghS6EqHgoli4mHU0Z6hFbSJLeG03uflHppiOrM"
+        },
+        {
+            "chatId": "4",
+            "name": "MSK.CODES",
+            "bio": "Hey there! I'm using Telegram",
+            "profilePicture": "https://media-exp1.licdn.com/dms/image/C4D03AQG01sUblUH0Cw/profile-displayphoto-shrink_200_200/0?e=1585785600&v=beta&t=0E29UI9-rVo63S89_NNWqyZ43JFjSDhZrj7GX_d94tQ"
+        },
+        {
+            "chatId": "5",
+            "name": "MSK.CODES",
+            "bio": "Hey there! I'm using Telegram",
+            "profilePicture": "https://media-exp1.licdn.com/dms/image/C4D03AQG01sUblUH0Cw/profile-displayphoto-shrink_200_200/0?e=1585785600&v=beta&t=0E29UI9-rVo63S89_NNWqyZ43JFjSDhZrj7GX_d94tQ"
+        },
+        {
+            "chatId": "6",
+            "name": "MSK.CODES",
+            "bio": "Hey there! I'm using Telegram",
+            "profilePicture": "https://media-exp1.licdn.com/dms/image/C4D03AQG01sUblUH0Cw/profile-displayphoto-shrink_200_200/0?e=1585785600&v=beta&t=0E29UI9-rVo63S89_NNWqyZ43JFjSDhZrj7GX_d94tQ"
+        },
+        {
+            "chatId": "7",
+            "name": "MSK.CODES",
+            "bio": "UNSTOPPABLE",
+            "profilePicture": "https://media-exp1.licdn.com/dms/image/C4D03AQG01sUblUH0Cw/profile-displayphoto-shrink_200_200/0?e=1585785600&v=beta&t=0E29UI9-rVo63S89_NNWqyZ43JFjSDhZrj7GX_d94tQ"
+        },
+        {
+            "chatId": "8",
+            "name": "MSKASHEF",
+            "bio": "UNSTOPPABLE",
+            "profilePicture": "https://media-exp1.licdn.com/dms/image/C4D03AQG01sUblUH0Cw/profile-displayphoto-shrink_200_200/0?e=1585785600&v=beta&t=0E29UI9-rVo63S89_NNWqyZ43JFjSDhZrj7GX_d94tQ"
+        },
+        {
+            "chatId": "9",
+            "name": "MSK.CODES",
+            "bio": "Hey there! I'm using Telegram",
+            "profilePicture": "https://media-exp1.licdn.com/dms/image/C4D03AQG01sUblUH0Cw/profile-displayphoto-shrink_200_200/0?e=1585785600&v=beta&t=0E29UI9-rVo63S89_NNWqyZ43JFjSDhZrj7GX_d94tQ"
+        },
+        {
+            "chatId": "10",
+            "name": "MSK.CODES",
+            "bio": "Hey there! I'm using Telegram",
+            "profilePicture": "https://media-exp1.licdn.com/dms/image/C4D03AQG01sUblUH0Cw/profile-displayphoto-shrink_200_200/0?e=1585785600&v=beta&t=0E29UI9-rVo63S89_NNWqyZ43JFjSDhZrj7GX_d94tQ"
+        },
+        {
+            "chatId": "11",
+            "name": "MSK.CODES",
+            "bio": "Hey there! I'm using Telegram",
+            "profilePicture": "https://media-exp1.licdn.com/dms/image/C4D03AQG01sUblUH0Cw/profile-displayphoto-shrink_200_200/0?e=1585785600&v=beta&t=0E29UI9-rVo63S89_NNWqyZ43JFjSDhZrj7GX_d94tQ"
+        },
+        {
+            "chatId": "12",
+            "name": "MSK.CODES",
+            "bio": "Hey there! I'm using Telegram",
+            "profilePicture": "https://media-exp1.licdn.com/dms/image/C4D03AQG01sUblUH0Cw/profile-displayphoto-shrink_200_200/0?e=1585785600&v=beta&t=0E29UI9-rVo63S89_NNWqyZ43JFjSDhZrj7GX_d94tQ"
+        },
+    ]
 }
